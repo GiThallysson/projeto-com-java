@@ -1,6 +1,6 @@
 // A classe Contexto mantém uma referência ao estado atual e pode mudar seu
 // estado.
-class Contexto {
+public class Contexto {
     private Estado estadoalterar;
 
     public Contexto(Estado estadoalterar) {
