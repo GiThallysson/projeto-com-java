@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // No programa principal, você pode mudar o estado do Contexto e chamar o método
 // emitirsolicito.
-class Programa {
+public class Programa {
     public static void main(String[] args) {
         // Criação do scanner para entrada do usuário
         Scanner escrevercaracterístico = new Scanner(System.in);
